@@ -96,23 +96,21 @@ The password for every account is `password`.
 
 ## Screenshots
 
-![Login page]
+Login page
 <img width="894" height="407" alt="image" src="https://github.com/user-attachments/assets/8cfe1e83-20f6-49c0-9dc2-80b0a65f3a1c" />
 
-![Admin dashboard]
+Admin dashboard
 <img width="724" height="443" alt="image" src="https://github.com/user-attachments/assets/2fd32288-0e16-4719-b288-cc806eb281b3" />
 
-![Students list]
+Students list
 <img width="736" height="361" alt="image" src="https://github.com/user-attachments/assets/df2c7491-0f7c-4410-a9e2-c36624de0228" />
 
-![Courses]
+Courses
 <img width="734" height="282" alt="image" src="https://github.com/user-attachments/assets/c47b0789-dd42-44cd-b865-4f1873d78064" />
 
-![Registrations]
+Registrations
 <img width="716" height="425" alt="image" src="https://github.com/user-attachments/assets/ea34a14e-e608-47dc-bf2f-58fffe446f9e" />
 
-![Lecturer course view](docs/screenshots/lecturer-course.png)
-![Student registrations](docs/screenshots/student-registrations.png)
 
 ## Team and contributions
 
