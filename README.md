@@ -3,7 +3,7 @@
 A Laravel web application for managing students, courses, lecturers and course registrations at Makerere University Business School.
 
 **Course:** BUC3131 Advanced Web Application Development, Coursework Two (2026/2027)
-**Group:** [group name]
+
 **Repository:** [GitHub repository URL]
 
 ## Features
@@ -45,7 +45,7 @@ On Windows PowerShell, use `copy .env.example .env` instead of `cp`.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=student_management
+DB_DATABASE=student_ms
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -96,11 +96,21 @@ The password for every account is `password`.
 
 ## Screenshots
 
-![Login page](docs/screenshots/login.png)
-![Admin dashboard](docs/screenshots/admin-dashboard.png)
-![Students list](docs/screenshots/students.png)
-![Courses](docs/screenshots/courses.png)
-![Registrations](docs/screenshots/registrations.png)
+![Login page]
+<img width="894" height="407" alt="image" src="https://github.com/user-attachments/assets/8cfe1e83-20f6-49c0-9dc2-80b0a65f3a1c" />
+
+![Admin dashboard]
+<img width="724" height="443" alt="image" src="https://github.com/user-attachments/assets/2fd32288-0e16-4719-b288-cc806eb281b3" />
+
+![Students list]
+<img width="736" height="361" alt="image" src="https://github.com/user-attachments/assets/df2c7491-0f7c-4410-a9e2-c36624de0228" />
+
+![Courses]
+<img width="734" height="282" alt="image" src="https://github.com/user-attachments/assets/c47b0789-dd42-44cd-b865-4f1873d78064" />
+
+![Registrations]
+<img width="716" height="425" alt="image" src="https://github.com/user-attachments/assets/ea34a14e-e608-47dc-bf2f-58fffe446f9e" />
+
 ![Lecturer course view](docs/screenshots/lecturer-course.png)
 ![Student registrations](docs/screenshots/student-registrations.png)
 
@@ -114,12 +124,7 @@ The password for every account is `password`.
 | [name] | Course and registration management | feature/course-registration |
 | [name] | Layout, validation and documentation | feature/layout-docs |
 
-## GitHub workflow
 
-- `main` holds stable code; `develop` is used for integration.
-- Each member works on their own feature branch and opens pull requests into `develop`.
-- Pull requests are reviewed by a teammate before merging.
-- The integrated application is tested before `develop` is merged into `main`.
 
 ## Technologies
 
