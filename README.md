@@ -116,11 +116,11 @@ Registrations
 
 | Member | Responsibility | Branch |
 |---|---|---|
-| [name] | Database design and relationships | feature/relationships |
-| [name] | Seeders, roles and permissions | feature/seeders-roles |
-| [name] | Student management | feature/student-management |
-| [name] | Course and registration management | feature/course-registration |
-| [name] | Layout, validation and documentation | feature/layout-docs |
+| Mwesigwa Daniel Plan | Database design and relationships | feature/relationships |
+| Lule Trevor| Seeders, roles and permissions | feature/seeders-roles |
+| Ggayi Joshua | Student management | feature/student-management |
+| Nanyanzi Immaculate | Course and registration management | feature/course-registration |
+| Christine Namubiru | Layout, validation and documentation | feature/layout-docs |
 
 
 
