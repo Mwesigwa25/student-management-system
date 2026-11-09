@@ -1,17 +1,5 @@
 # Student Management System
-## Database setup
-
-1. Start MySQL (XAMPP Control Panel, then Start next to MySQL).
-2. Open http://localhost/phpmyadmin and create an empty database named `student_management`.
-3. Open `.env` and set:
-
-```properties
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=student_ms
-DB_USERNAME=root
-DB_PASSWORD=
+## 
 ```
 
 A Laravel web application for managing students, courses, lecturers and course registrations at Makerere University Business School.
@@ -30,6 +18,20 @@ A Laravel web application for managing students, courses, lecturers and course r
 - Reusable Blade layout with sidebar navigation that changes with the user's permissions
 - Success and error messages after every action
 
+
+### Database setup
+
+1. Start MySQL (XAMPP Control Panel, then Start next to MySQL).
+2. Open http://localhost/phpmyadmin and create an empty database named `student_management`.
+3. Open `.env` and set:
+
+```properties
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=student_ms
+DB_USERNAME=root
+DB_PASSWORD=
 ## Requirements
 
 - PHP 8.2 or newer
