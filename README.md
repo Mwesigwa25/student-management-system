@@ -35,20 +35,6 @@ php artisan key:generate
 
 On Windows PowerShell, use `copy .env.example .env` instead of `cp`.
 
-## Database setup
-
-1. Start MySQL (XAMPP Control Panel, then Start next to MySQL).
-2. Open http://localhost/phpmyadmin and create an empty database named `student_management`.
-3. Open `.env` and set:
-
-```properties
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=student_ms
-DB_USERNAME=root
-DB_PASSWORD=
-```
 
 4. Create the tables and load the sample data:
 
