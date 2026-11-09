@@ -25,7 +25,7 @@ A Laravel web application for managing students, courses, lecturers and course r
 - Authentication with three roles: Administrator, Lecturer and Student
 - Role and permission management with spatie/laravel-permission
 - Student and course CRUD with form validation
-- Course registration that blocks duplicate registrations and full courses
+- Course registration blocks double enrollment and checks for no space left
 - Role-based records: lecturers see only their own courses, students see only their own registrations
 - Reusable Blade layout with sidebar navigation that changes with the user's permissions
 - Success and error messages after every action
